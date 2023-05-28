@@ -1,1 +1,0 @@
-# pp_lab1_de_bella_nicolas
