@@ -43,6 +43,7 @@ def pedir_datos_enteros(mensaje: str, mensaje_error: str)->int:
     
     return int(dato)
 
+
 def imprimir_indice_jugador()->None:
     """
     Imprime el índice y nombre de cada jugador.
