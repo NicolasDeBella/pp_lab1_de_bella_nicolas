@@ -111,8 +111,7 @@ def dream_team_app(ruta_archivo:str)->None:
                         print("Salio del programa...")
                         break
                     else:
-                        print("Continuando con el programa...")
-                    
+                        print("Continuando con el programa...")                
             input("Presione Enter para continuar...")
         else:
             print("Opcion invalida")
